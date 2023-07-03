@@ -1,0 +1,9 @@
+.cart {
+  display: block;
+  width: 2.4rem;
+  height: 2.4rem;
+}
+
+.cart:hover {
+  cursor: pointer;
+}
